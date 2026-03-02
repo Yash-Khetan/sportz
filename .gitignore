@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Logs
+logs
+*.log
+logs/**/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Build output
+dist/
+build/
+coverage/
+
+# Misc
+.nyc_output/
+.sass-cache/
+.eslintcache
+*.tgz
+*.swp
+*.swo
+*.bak
+*.tmp
